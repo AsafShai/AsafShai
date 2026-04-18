@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I'm a Backend Developer and Full Stack Developer with a strong foundation in building web applications, real-time applications, and data-driven solutions.  
+I'm a Backend Developer with a strong foundation in building web applications, real-time applications, and data-driven solutions.  
 Over my 3+ years of experience, I’ve worked on microservices and web scraping pipelines to full-stack web apps.  
 
 I'm always up for learning something new - especially when it means building smarter and more scalable software.  
-Finished my BSc in Computer Science.
+Completed a BSc in Computer Science.
 
 
 ---
